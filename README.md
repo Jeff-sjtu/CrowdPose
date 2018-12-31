@@ -26,8 +26,8 @@ Results on CrowdPose Validation:
 | Method | AP @*Easy* | AP @*Medium* | AP @*Hard* | FPS |
 |:-------|:-----:|:-------:|:-------:|:-------:|
 | OpenPose (CMU-Pose) | 62.7 | 48.7 | 32.3 | 5.3 |
-| Detectron (Mask R-CNN) | 75.4 | 58.4 | 45.6 | 2.9 |
-| **Ours** | **81.9** | **66.9** | **56.3** | 10.1 |
+| Detectron (Mask R-CNN) | 69.4 | 57.9 | 45.8 | 2.9 |
+| **Ours** | **75.5** | **66.3** | **57.4** | 10.1 |
 
 </center>
 
