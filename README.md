@@ -43,5 +43,5 @@ Results on MSCOCO Validation:
 </center>
 
 ## Code
-Source code will be available soon.
+We provide [evaluation tools](crowdpose-api) for CrowdPose dataset. Our evaluation tools is developed based on [@cocodataset/cocoapi](https://github.com/cocodataset/cocoapi)
 <center>
