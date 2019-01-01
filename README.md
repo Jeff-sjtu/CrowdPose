@@ -1,7 +1,7 @@
 ## CrowdPose: Efficient Crowded Scenes Pose Estimation and A New Benchmark
 
 ## Introduction
-This is the official repo of [CrowdPose: Efficient Crowded Scenes Pose Estimation and A New Benchmark](https://arxiv.org/abs/1812.00324). Our proposed method surpasses the state-of-the-art methods on CrowdPose dataset by **5** AP and results on MSCOCO dataset demonstrate the generalization ability of our method (comparatively 0.8 mAP higher). Images in our proposed CrowdPose dataset have a uniform distribution of *Crowd Index* among \[0, 1\].
+This is the official repo of [CrowdPose: Efficient Crowded Scenes Pose Estimation and A New Benchmark](https://arxiv.org/abs/1812.00324). Our proposed method surpasses the state-of-the-art methods on CrowdPose dataset by **5** mAP and results on MSCOCO dataset demonstrate the generalization ability of our method (comparatively **0.8** mAP higher). Images in our proposed CrowdPose dataset have a uniform distribution of *Crowd Index* among \[0, 1\].
 
 ## Code
 We provide [evaluation tools](crowdpose-api) for CrowdPose dataset. Our evaluation tools is developed based on [@cocodataset/cocoapi](https://github.com/cocodataset/cocoapi). The source code of our model will be integrated into [AlphaPose](https://github.com/MVIG-SJTU/AlphaPose/tree/pytorch) soon.
