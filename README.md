@@ -13,7 +13,9 @@ We provide [evaluation tools](crowdpose-api) for CrowdPose dataset. Our evaluati
 
 ## Results
 
-Results on CrowdPose Validation:
+**Results on CrowdPose Validation:**
+
+*Compare with state-of-the-art methods*
 <center>
 
 | Method | AP @0.5:0.95 | AP @0.5 | AP @0.75 | AR @0.5:0.95 | AR @0.5 | AR @0.75 |
@@ -24,6 +26,7 @@ Results on CrowdPose Validation:
 
 </center>
 
+*Compare with open-source systems*
 <center>
 
 | Method | AP @*Easy* | AP @*Medium* | AP @*Hard* | FPS |
@@ -34,7 +37,7 @@ Results on CrowdPose Validation:
 
 </center>
 
-Results on MSCOCO Validation:
+**Results on MSCOCO Validation:**
 <center>
 
 | Method | AP @0.5:0.95 | AR @0.5:0.95 |
