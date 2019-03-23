@@ -1,5 +1,9 @@
 ## CrowdPose: Efficient Crowded Scenes Pose Estimation and A New Benchmark
 
+<p align='center'>
+    <img src="crowdpose.gif", width="360">
+</p>
+
 ## Introduction
 This is the official repo of [CrowdPose: Efficient Crowded Scenes Pose Estimation and A New Benchmark](https://arxiv.org/abs/1812.00324). Our proposed method surpasses the state-of-the-art methods on CrowdPose dataset by **5** mAP and results on MSCOCO dataset demonstrate the generalization ability of our method (comparatively **0.8** mAP higher). Images in our proposed CrowdPose dataset have a uniform distribution of *Crowd Index* among \[0, 1\].
 
@@ -47,3 +51,6 @@ We provide [evaluation tools](crowdpose-api) for CrowdPose dataset. Our evaluati
 | **AlphaPose** | **70.9** | **76.4** |
 
 </center>
+
+## Contributors
+ CrowdPose is authored by [Jiefeng Li](http://jeff-leaf.site/), [Can Wang](https://github.com/Canwang-sjtu), [Hao Zhu](https://github.com/BernieZhu), [Yihuan Mao](), [Hao-Shu Fang](https://fang-haoshu.github.io/), and [Cewu Lu](http://www.mvig.org/).
