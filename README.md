@@ -14,6 +14,7 @@ If you find our works useful in your reasearch, please consider citing:
       year={2018}
     }
 
+
 ## Introduction
 This is the official repo of **CVPR2019** paper [*CrowdPose: Efficient Crowded Scenes Pose Estimation and A New Benchmark*](https://arxiv.org/abs/1812.00324). Our proposed method surpasses the state-of-the-art methods on CrowdPose dataset by **5** mAP and results on MSCOCO dataset demonstrate the generalization ability of our method (comparatively **0.8** mAP higher). Images in our proposed CrowdPose dataset have a uniform distribution of *Crowd Index* among \[0, 1\].
 
