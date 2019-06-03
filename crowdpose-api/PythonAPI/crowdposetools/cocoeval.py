@@ -539,11 +539,11 @@ class COCOeval:
             stats[6] = _summarize(0, maxDets=20, iouThr=.5)
             stats[7] = _summarize(0, maxDets=20, iouThr=.75)
             type_result = self.get_type_result(first=0.2, second=0.8)
-            stats[8] = _summarize(-1, maxDets=20,
+            stats[8] = _summarize(1, maxDets=20,
                                   areaRng='easy', type_score=type_result[0])
-            stats[9] = _summarize(-1, maxDets=20,
+            stats[9] = _summarize(1, maxDets=20,
                      areaRng='medium', type_score=type_result[1])
-            stats[10]=_summarize(-1, maxDets=20,
+            stats[10]=_summarize(1, maxDets=20,
                                 areaRng='hard', type_score=type_result[2]) 
             return stats
         if not self.eval:
