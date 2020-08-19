@@ -559,7 +559,7 @@ class COCOeval:
         self.summarize()
 
     def get_type_result(self,  first=0.01, second=0.85):
-        gt_file, resfile = self.anno_file
+        gt_file = self.anno_file[0]
         easy, mid, hard = self.split(gt_file, first, second)
         # print (len(easy), len(mid), len(hard))
         res = []
