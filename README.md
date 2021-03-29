@@ -24,7 +24,7 @@ We provide [evaluation tools](crowdpose-api) for CrowdPose dataset. Our evaluati
 ## Dataset
 [Train + Validation + Test Images](https://drive.google.com/file/d/1VprytECcLtU4tKP32SYi_7oDRbw7yUTL/view?usp=sharing) (Google Drive)
 
-[Annotations](https://drive.google.com/open?id=196vsma1uuLLCcUt1NrXp1K8PBU6tVH8w) (Google Drive)
+[Annotations](https://drive.google.com/drive/folders/1Ch1Cobe-6byB7sLhy8XRzOGCGTW2ssFv?usp=sharing) (Google Drive)
 
 ## Results
 
